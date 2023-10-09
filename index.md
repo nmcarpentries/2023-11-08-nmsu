@@ -241,6 +241,12 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+<p>
+  <strong>Registration:</strong>
+  There is no cost to attend this workshop, but a registration is required. Registrations are capped at 20 people. To register, please fill out the form at
+  <a href="https://www.nmepscor.org/what-we-do/programs/nmsu-software-carpentry-workshop">https://www.nmepscor.org/what-we-do/programs/nmsu-software-carpentry-workshop</a>
+</p>
+
 {% comment %}
 WHO CAN ATTEND?
 
