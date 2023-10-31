@@ -243,8 +243,7 @@ Display the contact email address set in the configuration file.
 
 <p>
   <strong>Registration:</strong>
-  There is no cost to attend this workshop, but a registration is required. Registrations are capped at 20 people. To register, please fill out the form at
-  <a href="https://www.nmepscor.org/what-we-do/programs/nmsu-software-carpentry-workshop">https://www.nmepscor.org/what-we-do/programs/nmsu-software-carpentry-workshop</a>
+  Registration for this workshop has closed.
 </p>
 
 {% comment %}
